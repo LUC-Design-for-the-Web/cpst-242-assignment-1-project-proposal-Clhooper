@@ -1,0 +1,55 @@
+<!Doctype html>
+<html lang=en>
+    <head>
+        <title>Three Tarts Bakery Site Redesign</title><!--will be the name of project-->
+        <link rel="stylesheet" href='/css_assignment1/style.css'>
+        <meta charset="UTF-8">
+        <meta name="description" content="project proposal">
+        <meta name="keywords" content="bakery, Three Tarts, three tarts bakery">
+        <meta name="author" content="Claire Hooper">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <header><!--will have title of project and mission statement-->
+            <h1>Three Tarts Bakery Redesign</h1><!--title of project-->
+            <p>To redesign the site of my previous employer to something a bit more conventional or expected design for a bakery. </p><!--hold mission satement-->
+        </header>
+            <div class="goalslist">
+                <h2>Goals</h2><!--3 goals-->
+                <ol>
+                    <li>Create a home page that is visually stimulating and easy to use. One that has a place for specials, and a link other than the nav bar to bring you to them.  In addition there is a space announcements for upcoming events and menu changes.</li><!--goal 1-->
+                    <li>Create a page that has information on how to order a cake with the options for said cake in easy to use drop down menus or bullet point clicks. This will utilize images and words to do so. </li><!--goal 2-->
+                    <li>Make a menu page for the cafe’s menu with a rotating specials page and a regular menu. This will be done similarly to how the hewn website handles their menu and specials. </li><!--goal 3-->
+                 </ol>
+            </div>
+            <div class="sitemodel">
+                <h2>Site Model: Hewn Bakery Site</h2><!--site model-->
+                <a href="https://www.hewnbread.com/" target="_blank"><img src="/img_assignment1/Hewnsitescreenshot.png" alt="Hewn Home Screen" width="600"></a><!--clickable image-->
+                <p>I chose this site due to it’s more user friendly interface. The nav bar above is one line with a logo in the middle with the opening photo being the first things a customer would see when opening the site. In addition there are links that show right off the bad some menu and special items that can bring you straight there.</p><!--why you chose this-->
+            </div>
+            <div class="sitepages">
+                <h2>Site Pages</h2><!--pages-->
+                <ol><!--list of pages-->
+                    <li>
+                        <h3>Home Page</h3><!--first page title-->
+                        <p>This page will include a navigation bar, as well as the logo in the header. The page should have a large welcome picture, a place for news and some of that days specials. The footer should contain the location and hours of the bakery. In addition there should be links to socials. </p><!--first page description-->
+                    </li>
+                    <li>
+                        <h3>Cake Order Form Page</h3><!--second page title-->
+                        <p>This page should contain all information on how to order a cake and how to customize it. One should have options for all cakes that exist and how big, then options for custom cakes. Then should have options for finish, decorations and writing to name a few. Pictures will be provided if possible and should be similar to the menu page at hewn with hovering images. 
+                        </p><!--second page description-->
+                    </li>
+                    <li>
+                        <h3>Menu Page</h3><!--third page title-->
+                        <p>Like the menu page at hewn there should be a place for specials first, then regular menu. It will be organized with pictures that when hovered over will show the name of the item,(if possible if I can’t get enough images, I’ll just do what I can). </p><!--third page description-->
+                    </li>
+                </ol>
+             </div>
+        <footer>
+            <h2>Target Audience</h2><!--target audience-->
+            <p>Those in the local community who are in need of a birthday or special occasion cake, or are simply wishing for a sandwich or salad for lunch.</p><!--target audience description-->
+
+        </footer>
+
+    </body>
+</html>
